@@ -302,7 +302,7 @@ ul {
 .icon {
   font-size: 3rem;
   margin-top: 1rem;
-  color: black;
+  color: var(--primary-500);
 }
 .prev,
 .next {
